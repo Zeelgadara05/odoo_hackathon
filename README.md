@@ -1,5 +1,8 @@
 # odoo_hackathon
 Zeel gadara
+Dhruv aghera
+Pratik Kotecha
+Manthan Vasoya
 
 # 🏢 Dayflow - Human Resource Management System
 > **"Every workday, perfectly aligned."**
